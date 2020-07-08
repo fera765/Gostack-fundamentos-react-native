@@ -4,7 +4,7 @@
       "id": "123",
       "title": "Nome do produto 01",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "price": 5
     },
     {
       "id": "1234",
